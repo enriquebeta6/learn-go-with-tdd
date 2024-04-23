@@ -7,4 +7,5 @@ use (
 	./iteration
 	./pointers-and-errors
 	./structs-and-interfaces
+	./maps
 )
