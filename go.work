@@ -2,10 +2,11 @@ go 1.18
 
 use (
 	./array-and-slice
+	./dependency-injection
 	./hello-world
 	./integers
 	./iteration
+	./maps
 	./pointers-and-errors
 	./structs-and-interfaces
-	./maps
 )
